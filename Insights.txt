@@ -1,0 +1,6 @@
+Insights from Sales Dashboard
+
+1. The West region recorded the highest total sales, especially during Q3.
+2. The Technology category consistently outperformed Furniture and Office Supplies.
+3. A noticeable sales dip occurred in February, but figures rebounded strongly in March.
+4. Office Supplies had lower overall sales but showed steady month-to-month performance.
